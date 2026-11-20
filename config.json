@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-functions-modules",
+      "title": "Python Functions and Modules",
+      "description": "Defining reusable functions and organizing Python code into modules",
+      "path": "assignments/python-functions-modules",
+      "dueDate": "2026-11-27"
     }
   ]
 }
